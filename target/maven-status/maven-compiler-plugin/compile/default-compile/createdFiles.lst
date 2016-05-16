@@ -1,0 +1,4 @@
+cm\ksoft\devlab\models\Position.class
+cm\ksoft\devlab\repo\PositionRepository.class
+cm\ksoft\devlab\App.class
+cm\ksoft\devlab\controller\PositionController.class
